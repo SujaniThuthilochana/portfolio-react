@@ -29,7 +29,7 @@ useEffect(
         <nav className="navbar">
         <div className="navbar-container">
             <Link to="/" className="navbar-logo" onClick={closeMobileMenu} >
-                WML <i class='fab fa-typo3'></i>
+                LaDy<i class="fab fa-canadian-maple-leaf"></i>
             </Link>
             <div className='menu-icon' onClick={handleClick}>
                 <i className={click ? 'fas fa-times': 'fas fa-bars'}/>
