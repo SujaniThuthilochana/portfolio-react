@@ -20,9 +20,9 @@ video{
     object-fit:contain ;
 }
 
-.hero-container > h1{
+.hero-container > h2{
     color: #fff;
-    font-size: 100px;
+    font-size: 80px;
     margin-top: -100px;
 }
 
@@ -57,7 +57,7 @@ video{
 }
 
 @media screen and (max-width: 768px){
-    .hero-container > h1{
+    .hero-container > h2{
         
         font-size: 50px;
         margin-top: -100px;

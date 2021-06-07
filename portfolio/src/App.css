@@ -17,17 +17,17 @@
   }
  
   .services {
-    background-image: url('../src/images/img-2.jpg');
+    background-image: url('../src/images/back-2.jpg');
    
     background-position: center;
-    background-size: cover;
+    background-size: fill;
     background-repeat: no-repeat;
     color: #fff;
     font-size: 100px;
   }
   
   .products {
-    background-image: url('../src/images/img-3.jpg');
+    background-image: url('../src/images/back-2.jpg');
    
     background-position: center;
     background-size: fill;
@@ -37,10 +37,10 @@
   }
   
   .sign-up {
-    background-image: url('../src/images/img-3.jpg');
+    background-image: url('../src/images/back-2.jpg');
    
     background-position: center;
-    background-size: cover;
+    background-size: fill;
     background-repeat: no-repeat;
     color: #fff;
     font-size: 100px;

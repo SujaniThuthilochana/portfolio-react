@@ -8,9 +8,9 @@ function HeroSection() {
         <div className='hero-container'>
             <video src={video} autoPlay loop muted/>
              {/* <img src={video}/> */}
-            <h1>Welcome to LaDy Shopping !</h1>
-            <p>What Are You Waiting For?</p>
-            <div className='hero-btns'>
+            <h2>Welcome to LaDy Shopping !</h2>
+            <p>Let's take a round..</p>
+            {/* <div className='hero-btns'>
                 <Button
                 className='btns'
                 buttonStyle='btn--outline'
@@ -25,7 +25,7 @@ Get Started<i className='far fa-play-circle'/>
                 >
 Watch Trailer
                 </Button>
-            </div>
+            </div> */}
         </div>
     )
 }
